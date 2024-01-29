@@ -1,0 +1,16 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision c00812f3d9f27b97efe0c0654fd7fd83449064e3)
++++ /dev/null	(revision c00812f3d9f27b97efe0c0654fd7fd83449064e3)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/E-commerce app&quot;
+-  }
+-}</component>
+-</project>
+\ No newline at end of file
